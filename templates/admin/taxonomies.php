@@ -1,0 +1,1 @@
+<h1>This is Phemrise Plugin Taxonomies Page</h1>

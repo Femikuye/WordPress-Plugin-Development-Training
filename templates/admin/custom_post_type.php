@@ -1,0 +1,1 @@
+<h1>This is Phemrise Plugin Custom Post Type Page</h1>
