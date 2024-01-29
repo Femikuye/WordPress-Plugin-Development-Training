@@ -27,7 +27,8 @@ final class Init
             Base\Controllers\LoginSystemController::class,
             Base\Controllers\MembershipSettingsController::class,
             Base\Controllers\ChatSystemController::class,
-
+            Base\Controllers\BannerEffectImagesController::class,
+            Base\Controllers\BannerSettingsController::class
         ];
     }
     /**
